@@ -3,7 +3,7 @@ export const Navbar = () => {
     <nav className="bg-gray-800 p-4 shadow-md">
         <div className="container mx-auto flex justify-between items-center">
               <div class="flex items-center space-x-2">                
-                <img src="/src/assets/CFT.png" alt="Carburator Logo" className="h-10 w-10" />
+                <img src="./src/assets/CFT.png" alt="Carburator Logo" className="h-10 w-10" />
                 <a href="/" className="text-white px-2 text-xl font-semibold">               
                     Carburator
                 </a> 
